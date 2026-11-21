@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Código Alerta: Guardián de Mensajes" width="320">
+  <img src="logo-guardian-digital.png" alt="Código Alerta: Guardián de Mensajes" width="320">
 </p>
 
 # Código Alerta: Guardián de Mensajes
@@ -61,7 +61,7 @@ Lab_Entrega2_SHA_SEP_DRR_JPR/
 ├── Lab_Entrega2_SHA_SEP_DRR_JPR.pde   código del juego
 └── data/                              imágenes, fuente Poppins y sonidos
 Manual_de_Usuario_Codigo_Alerta.pdf
-logo.png
+logo-guardian-digital.png
 ```
 
 ## Equipo 8
